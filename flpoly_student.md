@@ -1,27 +1,24 @@
-## Student Name (or name you would preferred to be called)
+## Owen Garrett (or name you would preferred to be called)
 
 ### Fall 2021
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course
-
-- Course 2
-
-- Course 3
-
-- Course 4
+-Data Science
+-Intro to Python
+-Cloud and Data Infrastructure
+-Precalc
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Photography
 
-- Thing 2
+- JDM Cars
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Computer forensics <https://www.garrettdiscovery.com>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2021/08/31
